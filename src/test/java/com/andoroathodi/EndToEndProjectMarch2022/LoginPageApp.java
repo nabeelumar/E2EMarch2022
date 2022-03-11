@@ -83,6 +83,7 @@ public class LoginPageApp extends base {
 	@AfterTest
 	public void exit() {
 a.assertAll();
+System.out.println("Cahnges done as per git");
 	}
 
 }
