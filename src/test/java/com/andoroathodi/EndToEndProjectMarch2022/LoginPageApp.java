@@ -84,6 +84,7 @@ public class LoginPageApp extends base {
 	public void exit() {
 a.assertAll();
 System.out.println("Cahnges done as per git");
+System.out.println("Made changes to develop branch");
 	}
 
 }
