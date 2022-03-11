@@ -1,0 +1,5 @@
+10:23:34.775 [TestNG-tests-1] INFO  com.andoroathodi.EndToEndProjectMarch2022.LoginPageApp - Driver is initalized
+10:23:34.781 [TestNG-tests-1] DEBUG com.andoroathodi.EndToEndProjectMarch2022.LoginPageApp - Fetching url and going to launch it
+10:25:25.789 [TestNG-tests-1] INFO  com.andoroathodi.EndToEndProjectMarch2022.LoginPageApp - Driver is initalized
+10:25:25.792 [TestNG-tests-1] DEBUG com.andoroathodi.EndToEndProjectMarch2022.LoginPageApp - Fetching url and going to launch it
+10:25:28.029 [TestNG-tests-1] INFO  com.andoroathodi.EndToEndProjectMarch2022.LoginPageApp - Url launched

@@ -1,0 +1,5 @@
+12:55:25.868 [main] INFO  com.andoroathodi.EndToEndProjectMarch2022.LoginPageApp - Driver is initalized
+12:55:25.879 [main] DEBUG com.andoroathodi.EndToEndProjectMarch2022.LoginPageApp - Fetching url and going to launch it
+12:55:28.015 [main] INFO  com.andoroathodi.EndToEndProjectMarch2022.LoginPageApp - Url launched
+12:55:28.107 [main] DEBUG com.andoroathodi.EndToEndProjectMarch2022.LoginPageApp - Clicking on sign in button
+12:55:30.112 [main] INFO  com.andoroathodi.EndToEndProjectMarch2022.LoginPageApp - Sign in button clicked

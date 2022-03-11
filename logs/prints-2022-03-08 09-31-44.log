@@ -1,0 +1,5 @@
+09:31:33.146 [main] DEBUG com.andoroathodi.EndToEndProjectMarch2022.LoginPageApp - Clicking on sign in button
+09:31:35.385 [main] INFO  com.andoroathodi.EndToEndProjectMarch2022.LoginPageApp - Sign in button clicked
+09:31:35.610 [main] DEBUG com.andoroathodi.EndToEndProjectMarch2022.LoginPageApp - Clicking submit button
+09:31:36.587 [main] INFO  com.andoroathodi.EndToEndProjectMarch2022.LoginPageApp - Submit button clicked
+09:31:44.027 [main] DEBUG com.andoroathodi.EndToEndProjectMarch2022.LoginPageApp - Clicking on sign in button

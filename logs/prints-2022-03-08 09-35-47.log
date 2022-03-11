@@ -1,0 +1,5 @@
+09:34:06.312 [main] DEBUG com.andoroathodi.EndToEndProjectMarch2022.LoginPageApp - Clicking on sign in button
+09:34:06.987 [main] INFO  com.andoroathodi.EndToEndProjectMarch2022.LoginPageApp - Sign in button clicked
+09:34:07.071 [main] DEBUG com.andoroathodi.EndToEndProjectMarch2022.LoginPageApp - Clicking submit button
+09:34:07.768 [main] INFO  com.andoroathodi.EndToEndProjectMarch2022.LoginPageApp - Submit button clicked
+09:35:47.436 [main] INFO  com.andoroathodi.EndToEndProjectMarch2022.LoginPageApp - Driver is initalized

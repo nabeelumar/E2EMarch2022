@@ -1,0 +1,5 @@
+12:54:14.706 [TestNG-tests-1] DEBUG com.andoroathodi.EndToEndProjectMarch2022.LoginPageApp - Clicking submit button
+12:54:15.758 [TestNG-tests-1] INFO  com.andoroathodi.EndToEndProjectMarch2022.LoginPageApp - Submit button clicked
+12:54:21.784 [TestNG-tests-1] DEBUG com.andoroathodi.EndToEndProjectMarch2022.LoginPageApp - Clicking on sign in button
+12:54:21.785 [TestNG-tests-1] INFO  com.andoroathodi.EndToEndProjectMarch2022.LoginPageApp - Sign in button clicked
+12:54:23.714 [TestNG-tests-1] DEBUG com.andoroathodi.EndToEndProjectMarch2022.LoginPageApp - Clicking submit button

@@ -1,0 +1,5 @@
+13:55:26.568 [TestNG-tests-1] INFO  com.andoroathodi.EndToEndProjectMarch2022.LoginPageApp - Sign in button clicked
+13:55:27.366 [TestNG-tests-1] DEBUG com.andoroathodi.EndToEndProjectMarch2022.LoginPageApp - Clicking submit button
+13:55:28.086 [TestNG-tests-1] INFO  com.andoroathodi.EndToEndProjectMarch2022.LoginPageApp - Submit button clicked
+10:22:14.430 [TestNG-tests-1] INFO  com.andoroathodi.EndToEndProjectMarch2022.LoginPageApp - Driver is initalized
+10:22:14.438 [TestNG-tests-1] DEBUG com.andoroathodi.EndToEndProjectMarch2022.LoginPageApp - Fetching url and going to launch it

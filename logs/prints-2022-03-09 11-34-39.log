@@ -1,0 +1,5 @@
+11:29:00.525 [main] DEBUG com.andoroathodi.EndToEndProjectMarch2022.LoginPageApp - Clicking submit button
+11:29:01.106 [main] INFO  com.andoroathodi.EndToEndProjectMarch2022.LoginPageApp - Submit button clicked
+11:34:35.961 [main] INFO  com.andoroathodi.EndToEndProjectMarch2022.LoginPageApp - Driver is initalized
+11:34:35.963 [main] DEBUG com.andoroathodi.EndToEndProjectMarch2022.LoginPageApp - Fetching url and going to launch it
+11:34:39.622 [main] INFO  com.andoroathodi.EndToEndProjectMarch2022.LoginPageApp - Url launched
